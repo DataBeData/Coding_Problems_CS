@@ -12,3 +12,4 @@ C:\Users\ruben\Desktop\Coding_Problems_CS\FirstSteps\obj\Debug\net9.0\refint\Fir
 C:\Users\ruben\Desktop\Coding_Problems_CS\FirstSteps\obj\Debug\net9.0\FirstSteps.pdb
 C:\Users\ruben\Desktop\Coding_Problems_CS\FirstSteps\obj\Debug\net9.0\FirstSteps.genruntimeconfig.cache
 C:\Users\ruben\Desktop\Coding_Problems_CS\FirstSteps\obj\Debug\net9.0\ref\FirstSteps.dll
+C:\Users\ruben\Desktop\Coding_Problems_CS\FirstSteps\obj\Debug\net9.0\FirstSteps.sourcelink.json
