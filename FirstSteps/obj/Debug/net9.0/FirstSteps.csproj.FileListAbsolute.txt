@@ -1,0 +1,14 @@
+C:\Users\ruben\Desktop\Coding_Problems_CS\FirstSteps\bin\Debug\net9.0\FirstSteps.exe
+C:\Users\ruben\Desktop\Coding_Problems_CS\FirstSteps\bin\Debug\net9.0\FirstSteps.deps.json
+C:\Users\ruben\Desktop\Coding_Problems_CS\FirstSteps\bin\Debug\net9.0\FirstSteps.runtimeconfig.json
+C:\Users\ruben\Desktop\Coding_Problems_CS\FirstSteps\bin\Debug\net9.0\FirstSteps.dll
+C:\Users\ruben\Desktop\Coding_Problems_CS\FirstSteps\bin\Debug\net9.0\FirstSteps.pdb
+C:\Users\ruben\Desktop\Coding_Problems_CS\FirstSteps\obj\Debug\net9.0\FirstSteps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruben\Desktop\Coding_Problems_CS\FirstSteps\obj\Debug\net9.0\FirstSteps.AssemblyInfoInputs.cache
+C:\Users\ruben\Desktop\Coding_Problems_CS\FirstSteps\obj\Debug\net9.0\FirstSteps.AssemblyInfo.cs
+C:\Users\ruben\Desktop\Coding_Problems_CS\FirstSteps\obj\Debug\net9.0\FirstSteps.csproj.CoreCompileInputs.cache
+C:\Users\ruben\Desktop\Coding_Problems_CS\FirstSteps\obj\Debug\net9.0\FirstSteps.dll
+C:\Users\ruben\Desktop\Coding_Problems_CS\FirstSteps\obj\Debug\net9.0\refint\FirstSteps.dll
+C:\Users\ruben\Desktop\Coding_Problems_CS\FirstSteps\obj\Debug\net9.0\FirstSteps.pdb
+C:\Users\ruben\Desktop\Coding_Problems_CS\FirstSteps\obj\Debug\net9.0\FirstSteps.genruntimeconfig.cache
+C:\Users\ruben\Desktop\Coding_Problems_CS\FirstSteps\obj\Debug\net9.0\ref\FirstSteps.dll
