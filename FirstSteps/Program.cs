@@ -6,7 +6,7 @@ class Program
     static void Main()
 
     {
-        OddOrEven();
+      
     }
     
     private static void EasyInterface()
